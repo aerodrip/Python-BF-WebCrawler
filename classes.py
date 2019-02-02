@@ -1,27 +1,22 @@
 class Studio:
-    def __init__(self, id, Title, locationObj, _work_hours):
+    def __init__(self, id, title, address, telNr, linkUrl, imgUrl):
         self.id = id
-        self.Title = Title
-        self.locationObj = locationObj
-        self._work_hours = _work_hours
-
-    def getWorkHours(self):
-        return self._work_hours
-
-    def getTest(self):
-        print(str(self._work_hours))
+        self.title = title
+        self.address = address
+        self.telNr = telNr
+        self.linkUrl = linkUrl
+        self.imgUrl = imgUrl
 
     def getBeschreibung(self):
+        print("------------------------------------------------------------------------------------------------------")
         print("ID:              " + str(self.id))
-        print("Title:           " + self.Title)
-        self.locationObj.getBeschreibung()
-        print("Opening Hours:   " + self._work_hours)
-
-        # studio_id:int
-        # name: string
-        # address_id: int
-        # telNr: string
-
+        print("Titel:           " + self.title)
+        print("Addresse:        " + str(self.address))
+        #self.locationObj.getBeschreibung()
+        print("Tel:             " + self.telNr)
+        print("Homepage:        " + self.linkUrl)
+        print("Image:           " + self.imgUrl)
+        print("")
 
 
 class Address:
@@ -37,3 +32,6 @@ class Address:
         print("Address:Strasse  " + self.street)
         print("        PlZ\ORT  " + str(self.plzOrt))
         print("        land     " + self.land)
+
+#class BufferList:
+

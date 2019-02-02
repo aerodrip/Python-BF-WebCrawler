@@ -1,0 +1,368 @@
+<a class="listing-link clearfix" href="https://tel.local.ch/de/d/Gelterkinden/4460/Coiffeurgeschaeft/Coiffeur-mit-Herz-VeMlNm7gWipUNUj5HvYWHQ?dwhat=Coiffeurgeschaeft"><div class="result-list-result-image-container pull-left">
+    <img alt="Coiffeur mit Herz logo" class="result-list-result-logo" src="//images.services.local.ch/bp/logo-ad/c7/c73996001d07ee97f680a1d850fe42fec1739d2e/upload1.jpg?scale=fit&amp;size=140x100&amp;v=2&amp;sig=cf424f4cd72f7118d0d93f41d11f088e62d810ae83ad3462d8c96f14af282d1e">
+                    </img>
+                </div>
+                <h2 class="hotellerie-suisse-hidden listing-title-container lui-margin-bottom-zero lui-text-overflow">
+                    <img alt="Icon hair" class="listing-icon-local-business" src="//bin.staticlocal.ch/localplace-icon/6e/6e37341301b7bab05714da66441e0f8d7b1e66bf/icon-hair.svg">
+                        <span class="listing-title">
+                            Coiffeur mit Herz
+                        </span>
+                    </img>
+                </h2>
+                <div class="listing-details-container">
+                    <div class="listing-rating lui-margin-right-xxs js-data-entry-deeplink" data-deeplink="#entry-feedbacks">
+                        <div class="listing-tooltip" data-content="Coiffeur mit Herz wurde von 2 local.ch Nutzern mit 5.0 von 5 Sternen bewertet. Für mehr Details die Sterne anklicken." data-placement="right" data-toggle="popover" data-trigger="hover">
+                            <div class="detail-header-stars-container listing-icon-text-pair">
+                                <i class="icon-star-10 entry-feedback-rating-star-icon"></i>
+                                <i class="icon-star-10 entry-feedback-rating-star-icon"></i>
+                                <i class="icon-star-10 entry-feedback-rating-star-icon"></i>
+                                <i class="icon-star-10 entry-feedback-rating-star-icon"></i>
+                                <i class="icon-star-10 entry-feedback-rating-star-icon"></i>
+                            </div>
+                        </div>
+                    </div>
+                <div class="listing-categories listing-rating-visible small">
+                    Coiffeurgeschäft • Haarverlängerungen
+                </div>
+            </div>
+            <div class="listing-address small">
+                Rössligasse 5, 4460 Gelterkinden
+            </div>
+                <div class="listing-products lui-margin-top-xxs">
+                    <div class="listing-offers-icon-container small lui-padding-horizontal-xs lui-margin-right-xxs js-data-entry-deeplink" data-deeplink="#local-gallery">
+                        <i class="icon-asset-pictures listing-offers-icon"></i>
+                        <span>6 Bilder</span>
+                    </div>
+                <div class="listing-favourite small">
+            <button class="btn btn-heart btn-heart-listing btn-link btn-link-glyphicon js-btn-favorite" data-action="favorited" data-create="/de/favorites?place_id=VeMlNm7gWipUNUj5HvYWHQ" data-delete="/de/favorites/:id" id="heart-place_VeMlNm7gWipUNUj5HvYWHQ" title="Zu Favoriten hinzufügen">
+                <i class="heart-icon icon-heart-outline js-favorite-icon"></i>
+            </button>
+            <span class="js-favorite-number interestingness" data-load-with="&lt;span&gt;&lt;i&gt;...&lt;/i&gt;&lt;/span&gt;">
+                10
+            </span>
+            <br/>
+        </div>
+    </div>
+</a>
+<a class="listing-link clearfix" href="https://tel.local.ch/de/d/Muentschemier/3225/Coiffeurgeschaeft/Coiffure-Melodie-oCpywNOcnYIflNKabWvScg?dwhat=Coiffeurgeschaeft"><div class="result-list-result-image-container pull-left">
+    <img alt="Coiffure Melodie logo" class="result-list-result-logo" src="//images.services.local.ch/bp/logo-ad/13/1349481825e88e1935d7fc6a3d04a3604659e3ce/upload1.jpg?scale=fit&amp;size=140x100&amp;v=2&amp;sig=c33acfbc80b95c49b213fe16efc663009e465b653dd24180f8f18afc6dd7864a"/>
+    </div>
+    <h2 class="hotellerie-suisse-hidden listing-title-container lui-margin-bottom-zero lui-text-overflow">
+        <img alt="Icon hair" class="listing-icon-local-business" src="//bin.staticlocal.ch/localplace-icon/6e/6e37341301b7bab05714da66441e0f8d7b1e66bf/icon-hair.svg"/>
+        <span class="listing-title">
+            Coiffure Melodie
+        </span>
+    </h2>
+    <div class="listing-details-container">
+        <div class="listing-rating lui-margin-right-xxs js-data-entry-deeplink" data-deeplink="#entry-feedbacks">
+            <div class="listing-tooltip" data-content="Coiffure Melodie wurde von 1 local.ch Nutzer mit 5.0 von 5 Sternen bewertet. Für mehr Details die Sterne anklicken." data-placement="right" data-toggle="popover" data-trigger="hover">
+                <div class="detail-header-stars-container listing-icon-text-pair">
+                    <i class="icon-star-10 entry-feedback-rating-star-icon"></i>
+                    <i class="icon-star-10 entry-feedback-rating-star-icon"></i>
+                    <i class="icon-star-10 entry-feedback-rating-star-icon"></i>
+                    <i class="icon-star-10 entry-feedback-rating-star-icon"></i>
+                    <i class="icon-star-10 entry-feedback-rating-star-icon"></i>
+                </div>
+            </div>
+        </div>
+        <div class="listing-categories listing-rating-visible small">
+            Coiffeurgeschäft • Kosmetikinstitut
+        </div>
+    </div>
+    <div class="listing-address small">
+        Hohlenrebenweg 1, 3225 Müntschemier
+    </div>
+    <div class="listing-products lui-margin-top-xxs">
+        <div class="listing-offers-icon-container small lui-padding-horizontal-xs lui-margin-right-xxs js-data-entry-deeplink" data-deeplink="#local-gallery">
+            <i class="icon-asset-pictures listing-offers-icon"></i>
+            <span>3 Bilder</span>
+        </div>
+        <div class="listing-favourite small">
+            <button class="btn btn-heart btn-heart-listing btn-link btn-link-glyphicon js-btn-favorite" data-action="favorited" data-create="/de/favorites?place_id=oCpywNOcnYIflNKabWvScg" data-delete="/de/favorites/:id" id="heart-place_oCpywNOcnYIflNKabWvScg" title="Zu Favoriten hinzufügen">
+                <i class="heart-icon icon-heart-outline js-favorite-icon"></i>
+            </button>
+            <span class="js-favorite-number interestingness" data-load-with="&lt;span&gt;&lt;i&gt;...&lt;/i&gt;&lt;/span&gt;">
+                3
+            </span>
+            <br/>
+        </div>
+    </div>
+</a>
+<a class="listing-link clearfix" href="https://tel.local.ch/de/d/Bischofszell/9220/Coiffeurgeschaeft/SPA-Coiffure-Kosmetik-Solarium-4dtPH7Lf9zYZi7Ndbbk2_g?dwhat=Coiffeurgeschaeft"><div class="result-list-result-image-container pull-left">
+<img alt="SPA Coiffure-Kosmetik-Solarium logo" class="result-list-result-logo" src="//images.services.local.ch/bp/localplace-logo/97/97c42bb6497d41c30342b504f6910576459c5fb9/spa.jpg?scale=fit&amp;size=140x100&amp;v=2&amp;sig=b24e44cb567e51308007c055b88fcc8f5fdbb27c8f33c1211dbc5777e5017b98"/>
+</div>
+<h2 class="hotellerie-suisse-hidden listing-title-container lui-margin-bottom-zero lui-text-overflow">
+<img alt="Icon hair" class="listing-icon-local-business" src="//bin.staticlocal.ch/localplace-icon/6e/6e37341301b7bab05714da66441e0f8d7b1e66bf/icon-hair.svg"/>
+<span class="listing-title">
+SPA Coiffure-Kosmetik-Solarium
+</span>
+</h2>
+<div class="listing-details-container">
+<div class="listing-categories listing-rating-hidden small">
+Coiffeurgeschäft • Kosmetikinstitut
+</div>
+</div>
+<div class="listing-address small">
+Grabenstrasse 9, 9220 Bischofszell
+</div>
+<div class="listing-products lui-margin-top-xxs">
+<div class="listing-favourite small">
+<button class="btn btn-heart btn-heart-listing btn-link btn-link-glyphicon js-btn-favorite" data-action="favorited" data-create="/de/favorites?place_id=4dtPH7Lf9zYZi7Ndbbk2_g" data-delete="/de/favorites/:id" id="heart-place_4dtPH7Lf9zYZi7Ndbbk2_g" title="Zu Favoriten hinzufügen">
+<i class="heart-icon icon-heart-outline js-favorite-icon"></i>
+</button>
+<span class="js-favorite-number interestingness" data-load-with="&lt;span&gt;&lt;i&gt;...&lt;/i&gt;&lt;/span&gt;">
+3
+</span>
+<br/>
+</div>
+</div>
+</a><a class="listing-link clearfix" href="https://tel.local.ch/de/d/Dietikon/8953/Coiffeurgeschaeft/Arbens-Haar-Studio-JLKI0gkK2vZ9XcguDWFLTw?dwhat=Coiffeurgeschaeft"><div class="result-list-result-image-container pull-left">
+<img alt="Arbens Haar Studio" class="result-list-result-image" src="//images.services.local.ch/bp/info-image-ad/e3/e36cea959fd11f1815aa3f8fea2e8b2e5a1af155/data.jpg?scale=crop&amp;size=140x100&amp;smartcrop=1&amp;v=2&amp;sig=1b7646550a529a0ae94ef05a0f95c26a458d635c5c190ef6eb04837c0bdc85e7"/>
+</div>
+<h2 class="hotellerie-suisse-hidden listing-title-container lui-margin-bottom-zero lui-text-overflow">
+<span class="listing-title">
+Arbens Haar Studio
+</span>
+</h2>
+<div class="listing-details-container">
+<div class="listing-categories listing-rating-hidden small">
+Coiffeurgeschäft
+</div>
+</div>
+<div class="listing-address small">
+Birmensdorferstrasse 11, 8953 Dietikon
+</div>
+<div class="listing-products lui-margin-top-xxs">
+<div class="listing-offers-icon-container small lui-padding-horizontal-xs lui-margin-right-xxs js-data-entry-deeplink" data-deeplink="#local-gallery">
+<i class="icon-asset-pictures listing-offers-icon"></i>
+<span>6 Bilder</span>
+</div>
+<div class="listing-favourite small">
+<button class="btn btn-heart btn-heart-listing btn-link btn-link-glyphicon js-btn-favorite" data-action="favorited" data-create="/de/favorites?place_id=JLKI0gkK2vZ9XcguDWFLTw" data-delete="/de/favorites/:id" id="heart-place_JLKI0gkK2vZ9XcguDWFLTw" title="Zu Favoriten hinzufügen">
+<i class="heart-icon icon-heart-outline js-favorite-icon"></i>
+</button>
+<span class="js-favorite-number interestingness" data-load-with="&lt;span&gt;&lt;i&gt;...&lt;/i&gt;&lt;/span&gt;">
+0
+</span>
+<br/>
+</div>
+</div>
+</a><a class="listing-link clearfix" href="https://tel.local.ch/de/d/Luzern/6014/Coiffeurgeschaeft/Art-Coiffure-Mitterer-L6pkikrOMIGfyYkTOtLDGg?dwhat=Coiffeurgeschaeft"><div class="result-list-result-image-category-container pull-left">
+<img alt="Icon hair" class="result-list-result-category-placeholder" src="//bin.staticlocal.ch/localplace-icon/fc/fc07b47480c2de788e48c9cf0d0068d2b7155fa3/icon-hair.svg"/>
+</div>
+<h2 class="hotellerie-suisse-hidden listing-title-container lui-margin-bottom-zero lui-text-overflow">
+<span class="listing-title">
+Art Coiffure Mitterer
+</span>
+</h2>
+<div class="listing-details-container">
+<div class="listing-categories listing-rating-hidden small">
+Coiffeurgeschäft
+</div>
+</div>
+<div class="listing-address small">
+Luzernerstrasse 45, 6014 Luzern
+</div>
+<div class="listing-products lui-margin-top-xxs">
+<div class="listing-favourite small">
+<button class="btn btn-heart btn-heart-listing btn-link btn-link-glyphicon js-btn-favorite" data-action="favorited" data-create="/de/favorites?place_id=L6pkikrOMIGfyYkTOtLDGg" data-delete="/de/favorites/:id" id="heart-place_L6pkikrOMIGfyYkTOtLDGg" title="Zu Favoriten hinzufügen">
+<i class="heart-icon icon-heart-outline js-favorite-icon"></i>
+</button>
+<span class="js-favorite-number interestingness" data-load-with="&lt;span&gt;&lt;i&gt;...&lt;/i&gt;&lt;/span&gt;">
+5
+</span>
+<br/>
+</div>
+</div>
+</a><a class="listing-link clearfix" href="https://tel.local.ch/de/d/Martigny-Croix/1921/Coiffeurgeschaeft/Atelier-Coiffure-CvLpQrJWaArxLm4lTnpN4w?dwhat=Coiffeurgeschaeft"><div class="result-list-result-image-container pull-left">
+<img alt="Atelier Coiffure logo" class="result-list-result-logo" src="//images.services.local.ch/bp/localplace-logo/a7/a73605326d06a76aa4dab4fab30faf55614cd69d/28.098.png?scale=fit&amp;size=140x100&amp;v=2&amp;sig=a34dcbdd2cb9beeaa1b076e294a551c964a26518a1c2feab9fdcdb8174e56a94"/>
+</div>
+<h2 class="hotellerie-suisse-hidden listing-title-container lui-margin-bottom-zero lui-text-overflow">
+<img alt="Icon hair" class="listing-icon-local-business" src="//bin.staticlocal.ch/localplace-icon/6e/6e37341301b7bab05714da66441e0f8d7b1e66bf/icon-hair.svg"/>
+<span class="listing-title">
+Atelier Coiffure
+</span>
+</h2>
+<div class="listing-details-container">
+<div class="listing-categories listing-rating-hidden small">
+Coiffeurgeschäft • Visagisten
+</div>
+</div>
+<div class="listing-address small">
+route de la Croix 11, 1921 Martigny-Croix
+</div>
+<div class="listing-products lui-margin-top-xxs">
+<div class="listing-offers-icon-container small lui-padding-horizontal-xs lui-margin-right-xxs js-data-entry-deeplink" data-deeplink="#local-gallery">
+<i class="icon-asset-pictures listing-offers-icon"></i>
+<span>19 Bilder</span>
+</div>
+<div class="listing-favourite small">
+<button class="btn btn-heart btn-heart-listing btn-link btn-link-glyphicon js-btn-favorite" data-action="favorited" data-create="/de/favorites?place_id=CvLpQrJWaArxLm4lTnpN4w" data-delete="/de/favorites/:id" id="heart-place_CvLpQrJWaArxLm4lTnpN4w" title="Zu Favoriten hinzufügen">
+<i class="heart-icon icon-heart-outline js-favorite-icon"></i>
+</button>
+<span class="js-favorite-number interestingness" data-load-with="&lt;span&gt;&lt;i&gt;...&lt;/i&gt;&lt;/span&gt;">
+4
+</span>
+<br/>
+</div>
+</div>
+</a><a class="listing-link clearfix" href="https://tel.local.ch/de/d/Moenchaltorf/8617/Coiffeurgeschaeft/CaroGio-Coiffeur-xd-5d-fJji8E_LllRXColQ?dwhat=Coiffeurgeschaeft"><div class="result-list-result-image-container pull-left">
+<img alt="CaroGio Coiffeur" class="result-list-result-image" src="//images.services.local.ch/bp/localplace-images/cf/cfde0726b45b7680d43e6176d564670e20ec5119/CaroGio1.jpg?scale=crop&amp;size=140x100&amp;smartcrop=1&amp;v=2&amp;sig=14ccdb00f1c0ece65ec2cb34c0aa09361e5dcd1acb3bc8fa42544e26b2e020db"/>
+</div>
+<h2 class="hotellerie-suisse-hidden listing-title-container lui-margin-bottom-zero lui-text-overflow">
+<span class="listing-title">
+CaroGio Coiffeur
+</span>
+</h2>
+<div class="listing-details-container">
+<div class="listing-rating lui-margin-right-xxs js-data-entry-deeplink" data-deeplink="#entry-feedbacks">
+<div class="listing-tooltip" data-content="CaroGio Coiffeur wurde von 1 local.ch Nutzer mit 5.0 von 5 Sternen bewertet. Für mehr Details die Sterne anklicken." data-placement="right" data-toggle="popover" data-trigger="hover">
+<div class="detail-header-stars-container listing-icon-text-pair">
+<i class="icon-star-10 entry-feedback-rating-star-icon"></i>
+<i class="icon-star-10 entry-feedback-rating-star-icon"></i>
+<i class="icon-star-10 entry-feedback-rating-star-icon"></i>
+<i class="icon-star-10 entry-feedback-rating-star-icon"></i>
+<i class="icon-star-10 entry-feedback-rating-star-icon"></i>
+</div>
+</div>
+</div>
+<div class="listing-categories listing-rating-visible small">
+Coiffeurgeschäft
+</div>
+</div>
+<div class="listing-address small">
+Usterstrasse 7, 8617 Mönchaltorf
+</div>
+<div class="listing-products lui-margin-top-xxs">
+<div class="listing-offers-icon-container small lui-padding-horizontal-xs lui-margin-right-xxs js-data-entry-deeplink" data-deeplink="#local-gallery">
+<i class="icon-asset-pictures listing-offers-icon"></i>
+<span>3 Bilder</span>
+</div>
+<div class="listing-favourite small">
+<button class="btn btn-heart btn-heart-listing btn-link btn-link-glyphicon js-btn-favorite" data-action="favorited" data-create="/de/favorites?place_id=xd-5d-fJji8E_LllRXColQ" data-delete="/de/favorites/:id" id="heart-place_xd-5d-fJji8E_LllRXColQ" title="Zu Favoriten hinzufügen">
+<i class="heart-icon icon-heart-outline js-favorite-icon"></i>
+</button>
+<span class="js-favorite-number interestingness" data-load-with="&lt;span&gt;&lt;i&gt;...&lt;/i&gt;&lt;/span&gt;">
+0
+</span>
+<br/>
+</div>
+</div>
+</a><a class="listing-link clearfix" href="https://tel.local.ch/de/d/Doettingen/5312/Coiffeurgeschaeft/Coiffeur-Colette-_q1HhVawx2lk4e3uXLv4BQ?dwhat=Coiffeurgeschaeft"><div class="result-list-result-image-container pull-left">
+<img alt="Coiffeur Colette logo" class="result-list-result-logo" src="//images.services.local.ch/bp/logo-ad/f1/f173fb0eeccae25ec6b816776d86fd27b57a6221/upload1.jpg?scale=fit&amp;size=140x100&amp;v=2&amp;sig=586ac96e1585855d145578d7f8716c09a1f0423f416070aa0eff60078c7bbb7c"/>
+</div>
+<h2 class="hotellerie-suisse-hidden listing-title-container lui-margin-bottom-zero lui-text-overflow">
+<img alt="Icon hair" class="listing-icon-local-business" src="//bin.staticlocal.ch/localplace-icon/6e/6e37341301b7bab05714da66441e0f8d7b1e66bf/icon-hair.svg"/>
+<span class="listing-title">
+Coiffeur Colette
+</span>
+</h2>
+<div class="listing-details-container">
+<div class="listing-rating lui-margin-right-xxs js-data-entry-deeplink" data-deeplink="#entry-feedbacks">
+<div class="listing-tooltip" data-content="Coiffeur Colette wurde von 1 local.ch Nutzer mit 5.0 von 5 Sternen bewertet. Für mehr Details die Sterne anklicken." data-placement="right" data-toggle="popover" data-trigger="hover">
+<div class="detail-header-stars-container listing-icon-text-pair">
+<i class="icon-star-10 entry-feedback-rating-star-icon"></i>
+<i class="icon-star-10 entry-feedback-rating-star-icon"></i>
+<i class="icon-star-10 entry-feedback-rating-star-icon"></i>
+<i class="icon-star-10 entry-feedback-rating-star-icon"></i>
+<i class="icon-star-10 entry-feedback-rating-star-icon"></i>
+</div>
+</div>
+</div>
+<div class="listing-categories listing-rating-visible small">
+Coiffeurgeschäft • Nailkosmetik
+</div>
+</div>
+<div class="listing-address small">
+Hauptstrasse 29, 5312 Döttingen
+</div>
+<div class="listing-products lui-margin-top-xxs">
+<div class="listing-offers-icon-container small lui-padding-horizontal-xs lui-margin-right-xxs js-data-entry-deeplink" data-deeplink="#local-gallery">
+<i class="icon-asset-pictures listing-offers-icon"></i>
+<span>3 Bilder</span>
+</div>
+<div class="listing-favourite small">
+<button class="btn btn-heart btn-heart-listing btn-link btn-link-glyphicon js-btn-favorite" data-action="favorited" data-create="/de/favorites?place_id=_q1HhVawx2lk4e3uXLv4BQ" data-delete="/de/favorites/:id" id="heart-place__q1HhVawx2lk4e3uXLv4BQ" title="Zu Favoriten hinzufügen">
+<i class="heart-icon icon-heart-outline js-favorite-icon"></i>
+</button>
+<span class="js-favorite-number interestingness" data-load-with="&lt;span&gt;&lt;i&gt;...&lt;/i&gt;&lt;/span&gt;">
+7
+</span>
+<br/>
+</div>
+</div>
+</a><a class="listing-link clearfix" href="https://tel.local.ch/de/d/Uster/8610/Coiffeurgeschaeft/Coiffeurstudio-Crazy-RCdJLRFIm4ICvJpxEeoDMg?dwhat=Coiffeurgeschaeft"><div class="result-list-result-image-container pull-left">
+<img alt="Coiffeurstudio Crazy logo" class="result-list-result-logo" src="//images.services.local.ch/bp/localplace-logo/05/05a724543799a246e8b9b40d7e5f163d87da3d6d/coiffeur%20crazy.jpg?scale=fit&amp;size=140x100&amp;v=2&amp;sig=b4ca80d589b705d2c0afcfd96570c56dc773307206deb5835889dc4db984e993"/>
+</div>
+<h2 class="hotellerie-suisse-hidden listing-title-container lui-margin-bottom-zero lui-text-overflow">
+<img alt="Icon hair" class="listing-icon-local-business" src="//bin.staticlocal.ch/localplace-icon/6e/6e37341301b7bab05714da66441e0f8d7b1e66bf/icon-hair.svg"/>
+<span class="listing-title">
+Coiffeurstudio Crazy
+</span>
+</h2>
+<div class="listing-details-container">
+<div class="listing-categories listing-rating-hidden small">
+Coiffeurgeschäft • Make-up
+</div>
+</div>
+<div class="listing-address small">
+Zentralstrasse 2, 8610 Uster
+</div>
+<div class="listing-products lui-margin-top-xxs">
+<div class="listing-offers-icon-container small lui-padding-horizontal-xs lui-margin-right-xxs js-data-entry-deeplink" data-deeplink="#local-gallery">
+<i class="icon-asset-pictures listing-offers-icon"></i>
+<span>4 Bilder</span>
+</div>
+<div class="listing-favourite small">
+<button class="btn btn-heart btn-heart-listing btn-link btn-link-glyphicon js-btn-favorite" data-action="favorited" data-create="/de/favorites?place_id=RCdJLRFIm4ICvJpxEeoDMg" data-delete="/de/favorites/:id" id="heart-place_RCdJLRFIm4ICvJpxEeoDMg" title="Zu Favoriten hinzufügen">
+<i class="heart-icon icon-heart-outline js-favorite-icon"></i>
+</button>
+<span class="js-favorite-number interestingness" data-load-with="&lt;span&gt;&lt;i&gt;...&lt;/i&gt;&lt;/span&gt;">
+2
+</span>
+<br/>
+</div>
+</div>
+</a><a class="listing-link clearfix" href="https://tel.local.ch/de/d/Waedenswil/8820/Coiffeurgeschaeft/Coiffure-Carmen-KHzckIHJ4u99Jfz7zjNe_Q?dwhat=Coiffeurgeschaeft"><div class="result-list-result-image-container pull-left">
+<img alt="Coiffure Carmen logo" class="result-list-result-logo" src="//images.services.local.ch/bp/localplace-logo/7d/7dff945e7a94e2c6bd0a60d3a534b87bf555dc28/opop.jpg?scale=fit&amp;size=140x100&amp;v=2&amp;sig=6efb037a75ba16c9fa04a65bbc58790290ca7f4ddf4f558fbe179659b65dc646"/>
+</div>
+<h2 class="hotellerie-suisse-hidden listing-title-container lui-margin-bottom-zero lui-text-overflow">
+<span class="listing-title">
+Coiffure Carmen
+</span>
+</h2>
+<div class="listing-details-container">
+<div class="listing-rating lui-margin-right-xxs js-data-entry-deeplink" data-deeplink="#entry-feedbacks">
+<div class="listing-tooltip" data-content="Coiffure Carmen wurde von 335 local.ch Nutzern mit 5.0 von 5 Sternen bewertet. Für mehr Details die Sterne anklicken." data-placement="right" data-toggle="popover" data-trigger="hover">
+<div class="detail-header-stars-container listing-icon-text-pair">
+<i class="icon-star-10 entry-feedback-rating-star-icon"></i>
+<i class="icon-star-10 entry-feedback-rating-star-icon"></i>
+<i class="icon-star-10 entry-feedback-rating-star-icon"></i>
+<i class="icon-star-10 entry-feedback-rating-star-icon"></i>
+<i class="icon-star-10 entry-feedback-rating-star-icon"></i>
+</div>
+</div>
+</div>
+<div class="listing-categories listing-rating-visible small">
+Coiffeurgeschäft
+</div>
+</div>
+<div class="listing-address small">
+Seestrasse 130, 8820 Wädenswil
+</div>
+<div class="listing-products lui-margin-top-xxs">
+<div class="listing-offers-icon-container small lui-padding-horizontal-xs lui-margin-right-xxs js-data-entry-deeplink" data-deeplink="#local-gallery">
+<i class="icon-asset-pictures listing-offers-icon"></i>
+<span>17 Bilder</span>
+</div>
+<div class="listing-favourite small">
+<button class="btn btn-heart btn-heart-listing btn-link btn-link-glyphicon js-btn-favorite" data-action="favorited" data-create="/de/favorites?place_id=KHzckIHJ4u99Jfz7zjNe_Q" data-delete="/de/favorites/:id" id="heart-place_KHzckIHJ4u99Jfz7zjNe_Q" title="Zu Favoriten hinzufügen">
+<i class="heart-icon icon-heart-outline js-favorite-icon"></i>
+</button>
+<span class="js-favorite-number interestingness" data-load-with="&lt;span&gt;&lt;i&gt;...&lt;/i&gt;&lt;/span&gt;">
+3
+</span>
+<br/>
+</div>
+</div>
+</a>
