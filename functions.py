@@ -1,9 +1,9 @@
 from classes import *
+import csv
 from selenium import webdriver
 from urllib.request import urlopen as uReq
 from bs4 import BeautifulSoup as soup
 import time
-
 
 
 def useTXT(str, filename, argument):
@@ -15,6 +15,32 @@ def useTXT(str, filename, argument):
         file_object = open(filename, 'r')
         return file_object
         file_object.close()
+
+
+def useCSV(str, filename, argument):
+    if argument == 'w':
+        file_object = open(filename, 'w')
+        file_object.write(str)
+        file_object.close()
+    elif argument == 'r':
+        file_object = open(filename, 'r')
+        return file_object
+        file_object.close()
+    elif argument == 'a':
+        #file_object = open(filename, 'a', newline='')
+        #file_object.writelines(str)
+        #file_object.close()
+        with open(filename, 'a', newline='') as file_object:
+            wr = csv.writer(file_object, delimiter=';', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+            wr.writerow(str)
+    elif argument == 'create':
+        #file_object = open(filename, 'w', newline='')
+        #file_object.write(str)
+        #file_object.close()
+        with open(filename, 'w', newline='') as file_object:
+            wr = csv.writer(file_object, delimiter=';', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+            wr.writerow(str)
+
 
 def crawlUrl(url):
     # @description: Opens a url and scrapes for Coiffeur Studio Information
@@ -125,6 +151,18 @@ def crawlPBody(bodyStr):
 
         # Create new Studio Object and print Object Description
         id += 1
+        objList = []
+        objList.append(id)
+        objList.append(title)
+        objList.append(address)
+        objList.append(telNr)
+        objList.append(linkUrl)
+        objList.append(imgUrl)
+
+        csv = 'dataset.csv'
+
+        useCSV(objList, csv, 'a')
+
         obj = Studio(id, title, address, telNr, linkUrl, imgUrl)
         obj.getBeschreibung()
 
